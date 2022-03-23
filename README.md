@@ -17,7 +17,24 @@ You will be split in 4 teams. Create a new branch (i.e, other than the Main) and
   The code should then call the appropriate function and print an informative statement about the volume and surface area of the object.
 
 
-b)	Team 1 will commit and publish their branch. Check on the webbrowser, you should all then see a message that the current branch is published, and you can create a “Pull Request” and continue the collaboration in GitHub.
+
+-----How to proceed after writing things up in your branches:
+
+1. Team 1 will commit and publish their branch. Check on the webbrowser, you should all then see a message that the current branch is published, and you can create a “Pull Request” and continue the collaboration in GitHub.	Team 1 should click on the button and check your GitHub. You should see under “Pull requests” that you have pushed the new branch, which is now ready to be compared with the Main. Click on the “compare and pull request button”. It should show you that the branches are able to merge (i.e., there are no potentially fatal conflicts with the Main branch). Go on to make a Pull request and give some information on what your change to the branch was.
+Everyone should be able to see it, make comments if they want, and finally can agree to merge the branch with the Main. Merge your branch with the Main branch. Check out under “Code”. Your file with the functions is now part of the Main branch and can be used by everyone in the team. 
+
+2. Team 2 will follow the above steps and make sure all functions are merged in the main branch: they should commit and publish their branch, make a pull request (it should show you that the branches are able to merge (i.e., there are no potentially fatal conflicts with the Main branch), give some information on what the change to the branch was etc. Check out under “Code”. The complete file with the functions and main code calling the functions should  now be part of the Main branch and can be used by everyone in the team.
+
+
+3. Team 3 will do the same, and finally
+
+4. Team 4 will do the same. At the end you should have one functional code that takes input from the user and gives them information about the surface area and volume of the different objects they may have at hand. 
+
+
+
+
+
+
 
 
 
